@@ -6,7 +6,7 @@
 
 ### Geometry
 #### 2021
-- [Semi-supervised video-driven facial animation transfer for production](https://dl.acm.org/doi/abs/10.1145/3478513.3480515), Moser et al., ACM Trans. Graph. 2021 | ProjectPage: N/A | Github: N/A | [bibtex](./face-reconstruction.bib#moser2021semi)
+- [Semi-supervised video-driven facial animation transfer for production](https://dl.acm.org/doi/abs/10.1145/3478513.3480515), Moser et al., ACM ToG. 2021 | ProjectPage: N/A | Github: N/A | [bibtex](./face-reconstruction.bib#moser2021semi)
 
 ### Appearance
 #### 2021
