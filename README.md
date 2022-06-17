@@ -2,7 +2,7 @@
 
 ### Geometry & Appearance
 #### 2022
-- [EMOCA: Emotion Driven Monocular Face Capture and Animation](https://ps.is.mpg.de/uploads_file/attachment/attachment/686/EMOCA__CVPR22.pdf),  Daněček, Black and Bolkart, ICCV 2021 | [ProjectPage](https://emoca.is.tue.mpg.de/) | [Github](https://github.com/radekd91/emoca) | [bibtex](./face-reconstruction.bib#danvevcek2022emoca)
+- [EMOCA: Emotion Driven Monocular Face Capture and Animation](https://ps.is.mpg.de/uploads_file/attachment/attachment/686/EMOCA__CVPR22.pdf),  Daněček, Black and Bolkart, CVPR 2022 | [ProjectPage](https://emoca.is.tue.mpg.de/) | [Github](https://github.com/radekd91/emoca) | [bibtex](./face-reconstruction.bib#danvevcek2022emoca)
 
 #### 2021
 - [DECA: Learning an Animatable Detailed 3D Face Model from In-The-Wild Images ](https://files.is.tue.mpg.de/black/papers/SIGGRAPH21_DECA.pdf), Feng et al., SIGGRAPH 2021 | [ProjectPage](https://deca.is.tue.mpg.de/) | [Github](https://github.com/YadiraF/DECA) | [bibtex](./face-reconstruction.bib#Feng:SIGGRAPH:2021)
