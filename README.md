@@ -1,7 +1,12 @@
 # Awesome-Face-Reconstruction
 
 ### Geometry & Appearance
+#### 2022
+- [EMOCA: Emotion Driven Monocular Face Capture and Animation](https://ps.is.mpg.de/uploads_file/attachment/attachment/686/EMOCA__CVPR22.pdf),  Daněček, Black and Bolkart, ICCV 2021 | [ProjectPage](https://emoca.is.tue.mpg.de/) | [Github](https://github.com/radekd91/emoca) | [bibtex](./face-reconstruction.bib#danvevcek2022emoca)
+
 #### 2021
+- [DECA: Learning an Animatable Detailed 3D Face Model from In-The-Wild Images ](https://files.is.tue.mpg.de/black/papers/SIGGRAPH21_DECA.pdf), Feng et al., SIGGRAPH 2021 | [ProjectPage](https://deca.is.tue.mpg.de/) | [Github](https://github.com/YadiraF/DECA) | [bibtex](./face-reconstruction.bib#Feng:SIGGRAPH:2021)
+
 - [ToFu: Topologically Consistent Multi-View Face Inference Using Volumetric Sampling](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Topologically_Consistent_Multi-View_Face_Inference_Using_Volumetric_Sampling_ICCV_2021_paper.pdf), Li et al., ICCV 2021 | [ProjectPage](https://vgl.ict.usc.edu/Software/ToFu/) | [Github](https://github.com/tianyeli/tofu) | [bibtex](./face-reconstruction.bib#li2021tofu)
 
 ### Geometry
